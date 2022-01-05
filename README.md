@@ -8,4 +8,4 @@ a hosted version can be found on https://netflix-clone-a888e.firebaseapp.com/
 
 
 Preview:
-![](test.PNG)
+![](test.png)
